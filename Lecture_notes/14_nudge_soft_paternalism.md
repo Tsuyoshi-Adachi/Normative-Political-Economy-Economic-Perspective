@@ -1,3 +1,7 @@
+---
+title: 14_nudge_soft_paternalism
+---
+
 # Nudge and Soft Paternalism
 
 ## Introduction

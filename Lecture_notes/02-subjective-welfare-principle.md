@@ -1,3 +1,7 @@
+---
+title: 02-subjective-welfare-principle
+---
+
 # Your Well-Being Standard Lies Within You (Subjective Welfare Principle)
 
 The concept of “well-being” (happiness or satisfaction) is, according to the **subjective welfare principle**, determined by how each individual personally feels and judges their own situation. In contrast, the **objective welfare principle** bases judgments of well-being on measurements that anyone can observe, such as living standards or health indicators.

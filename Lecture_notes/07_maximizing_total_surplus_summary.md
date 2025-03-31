@@ -1,3 +1,7 @@
+---
+title: 07_maximizing_total_surplus_summary
+---
+
 # Maximizing Total Surplus: Summary
 
 ## 1. Background: Why the Second-Best Approach Emerged

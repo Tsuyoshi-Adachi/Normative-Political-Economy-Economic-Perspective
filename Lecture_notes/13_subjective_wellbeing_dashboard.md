@@ -1,3 +1,7 @@
+---
+title: 13_subjective_wellbeing_dashboard
+---
+
 
 # Subjective Well-Being & the Dashboard Approach
 

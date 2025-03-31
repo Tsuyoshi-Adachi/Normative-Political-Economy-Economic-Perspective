@@ -1,3 +1,7 @@
+---
+title: 08_money_not_source_of_value
+---
+
 # **Money Is Not the Source of Value**
 
 ---

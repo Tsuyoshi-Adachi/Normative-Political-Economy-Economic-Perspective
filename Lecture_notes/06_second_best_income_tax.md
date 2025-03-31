@@ -1,3 +1,7 @@
+---
+title: 06_second_best_income_tax
+---
+
 ## 1. Second-Best Taxation (Part II): Income Tax
 
 ### 1.1 Why Labor Income Is the Most Suitable Target for Redistribution

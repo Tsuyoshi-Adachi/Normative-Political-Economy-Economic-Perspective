@@ -1,3 +1,7 @@
+---
+title: 01_welfarism_equilibrium
+---
+
 # Welfarism and Equilibrium
 
 Standard economic theory, when evaluating policies, typically assumes three core elements:

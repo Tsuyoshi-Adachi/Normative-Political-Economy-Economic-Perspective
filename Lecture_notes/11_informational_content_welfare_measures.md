@@ -1,3 +1,7 @@
+---
+title: 11_informational_content_welfare_measures
+---
+
 # The Informational Content of Welfare Measures
 
 ## 1. Surplus and Real Income as Welfare Measures

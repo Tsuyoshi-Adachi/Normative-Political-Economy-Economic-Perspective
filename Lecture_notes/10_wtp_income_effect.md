@@ -1,3 +1,7 @@
+---
+title: 10_wtp_income_effect
+---
+
 # Willingness to Pay and the Income Effect
 
 ## Introduction

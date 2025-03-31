@@ -1,3 +1,7 @@
+---
+title: 09_welfare_real_income
+---
+
 # Evaluating Welfare Levels Using Real Income
 
 Using **income** as a benchmark for welfare (well-being) can be relatively convincing within a single society. However, when comparing different societies or different time periods, relying solely on nominal income is often insufficient. Therefore, measures such as **real income** and **equivalent income** have been proposed. In what follows, we will first review why income can be a meaningful measure of welfare within one society, then explore how real income and equivalent income might (or might not) work as welfare indicators across societies. Finally, we will use **indifference curves** to illustrate these concepts more clearly.

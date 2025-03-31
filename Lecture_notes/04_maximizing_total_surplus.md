@@ -1,3 +1,7 @@
+---
+title: 04_maximizing_total_surplus
+---
+
 # Maximizing Total Surplus
 
 In standard economic theory, many economists argue that for most markets, increasing the total surplus (the sum of consumer surplus and producer surplus) should be a key policy goal. Four main reasons are typically cited:

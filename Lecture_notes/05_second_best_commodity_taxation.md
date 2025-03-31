@@ -1,3 +1,7 @@
+---
+title: 05_second_best_commodity_taxation
+---
+
 # Second-Best I: Commodity Taxation
 
 ## 1. Commodities Suitable for Redistribution

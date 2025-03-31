@@ -1,3 +1,7 @@
+---
+title: 12_capability_approach
+---
+
 # Capability Approach
 
 ### Introduction
