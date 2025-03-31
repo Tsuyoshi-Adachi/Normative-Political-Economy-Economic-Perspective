@@ -2,6 +2,7 @@
 title: 03-review-of-surplus
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062261)
 # 2. Review of Surplus
 ---
 
@@ -90,3 +91,5 @@ Still, as a starting point, the notion of consumer surplus (and producer surplus
 3. **Total surplus** is the sum of individual surpluses, and is often used as an indicator of social welfare in basic economic analysis—though its interpretation involves ethical and distributional considerations.
 
 In the next steps, we will use this concept of surplus to analyze market efficiency, policy impacts, and various other questions in welfare economics.
+
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062539)

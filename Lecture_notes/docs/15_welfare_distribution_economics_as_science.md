@@ -2,6 +2,7 @@
 title: 15_welfare_distribution_economics_as_science
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062552)
 # Welfare Distribution and Economics as a Science
 
 - In previous lectures, we examined various welfare indicators. From here, we will discuss how to select policies based on those welfare measures.  
@@ -45,3 +46,4 @@ title: 15_welfare_distribution_economics_as_science
 - This idea underpins the distinction, common in introductory economics, between **positive analysis** (fact-finding) and **normative analysis** (value judgments). Positive analysis is the scientific aspect of economics, which, when combined with normative considerations, enables discussions of which policies are most desirable.
 
 - It is important to note that other parts of this process cannot be done **without any** value judgments. Science alone cannot yield a final verdict. Even for **step (2)**, the effort is enormous; and **steps (1)** and **(3)** are similarly massive tasks for society. Regardless of scientific progress, it is unlikely that policy decisions can ever be fully resolved by technology or statistical analysis. A large portion of policy decisions will always involve societal choices about values and priorities.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062829)

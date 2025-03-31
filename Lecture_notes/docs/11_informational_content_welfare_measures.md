@@ -2,6 +2,7 @@
 title: 11_informational_content_welfare_measures
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062269)
 # The Informational Content of Welfare Measures
 
 ## 1. Surplus and Real Income as Welfare Measures
@@ -114,3 +115,4 @@ This discrepancy arises because each criterion focuses on a different part of th
 
 - In practical policy analysis, exact measurement of welfare is often challenging, and analysts typically have partial information. Thus, combining the pieces of welfare information we do trust—and choosing an appropriate criterion—becomes crucial.  
 - In subsequent lectures, we will explore Rawlsian reasoning in more depth, discuss how it connects with fairness, and examine voting-based approaches such as **majority judgment**, showing how each method can shape policy choices differently.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062547)

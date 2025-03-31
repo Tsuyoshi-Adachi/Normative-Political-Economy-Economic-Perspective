@@ -2,6 +2,7 @@
 title: 10_wtp_income_effect
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062268)
 # Willingness to Pay and the Income Effect
 
 ## Introduction
@@ -99,3 +100,4 @@ but because having more cash lowers the marginal utility of money, the situation
 - For modest interventions, using willingness to pay and the resulting surplus can be both intuitive and sufficient.  
 - However, for interventions that significantly alter a household’s overall consumption possibilities, analyzing the **income effect** is crucial.  
 - In more advanced microeconomics, this analysis is formalized through indifference curves, compensating variation, and equivalent variation, giving us a more precise lens to evaluate large-scale policy impacts.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062546)

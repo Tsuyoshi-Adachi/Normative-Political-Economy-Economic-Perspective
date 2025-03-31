@@ -2,6 +2,7 @@
 title: 23_comparing_inequality
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062563)
 # Comparing Inequality
 
 ### Gini Coefficient
@@ -71,3 +72,4 @@ When discussing inequality, we may focus on several types of income or wealth me
 - **The Gini coefficient** is a widely used scalar index of inequality that allows for comparison even when Lorenz curves intersect. It represents “the expected income gap as a percentage of mean income” for two randomly selected individuals.  
 - Typically, a Gini coefficient below 20% is very rare, and above 40% is considered indicative of a serious social problem in terms of inequality.  
 - The choice of distribution (disposable income, pre-redistribution income, or wealth) affects both the numerical results and the policy implications. Disposable income focuses on immediate conditions, while wealth distribution highlights accumulated inequality.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062830)

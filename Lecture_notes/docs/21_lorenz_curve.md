@@ -2,6 +2,7 @@
 title: 21_lorenz_curve
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062558)
 # **The Lorenz Curve**
 
 ---
@@ -93,3 +94,4 @@ The Lorenz curve is an essential tool in measuring and comparing income inequali
    - In these scenarios, deciding which distribution is more equal depends heavily on **social preferences**—for example, whether you prioritize supporting the bottom deciles, the middle class, or reducing top-end income concentration.
 
 In summary, Lorenz curves provide a **visual and intuitive** way to examine how incomes are shared across a population, highlighting not only the overall level of inequality but also which segments of the population are most affected. However, if there is no clear Lorenz dominance, additional value judgments regarding different income segments become necessary. Studying these nuances and understanding the structure of distributions is a fundamental part of welfare economics.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062855)

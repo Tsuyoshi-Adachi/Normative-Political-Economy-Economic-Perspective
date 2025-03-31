@@ -2,6 +2,7 @@
 title: 07_maximizing_total_surplus_summary
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062266)
 # Maximizing Total Surplus: Summary
 
 ## 1. Background: Why the Second-Best Approach Emerged
@@ -61,3 +62,4 @@ Even though Second-Best Theory is more realistic than older approaches, it still
    - While maximizing total surplus can be a solid guiding principle, we must **acknowledge which parts are based on evidence** and which parts **rely on hopeful assumptions** or normative beliefs.
    
 In short, **maximizing total surplus** remains a powerful framework in modern economics, but we should keep in mind the **limits of its theoretical justifications**. To implement effective and equitable policies, a nuanced and **continuously updated** approach is vital.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062543)

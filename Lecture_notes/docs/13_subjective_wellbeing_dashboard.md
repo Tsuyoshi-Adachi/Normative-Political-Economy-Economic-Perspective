@@ -2,6 +2,7 @@
 title: 13_subjective_wellbeing_dashboard
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062270)
 
 # Subjective Well-Being & the Dashboard Approach
 
@@ -90,3 +91,5 @@ title: 13_subjective_wellbeing_dashboard
    - Income or capabilities alone do not tell the whole story of welfare.  
    - SWB alone also has limitations.  
    - The dashboard approach allows multiple indicators to remain visible, empowering users to interpret the broader picture.
+
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062549)

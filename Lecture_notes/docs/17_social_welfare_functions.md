@@ -2,6 +2,7 @@
 title: 17_social_welfare_functions
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062554)
 # Social Welfare Functions
 
 ---
@@ -108,3 +109,4 @@ A well-known mathematical result states that if a preference relation is **compl
 5. Economists, using the chosen social welfare function, identify and propose policies that maximize it.
 
 This system allows a clear division of labor between **value judgments** (society’s domain) and **scientific analysis** (economists’ domain), enabling society to choose more effectively among policy options based on its own normative perspectives.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062859)

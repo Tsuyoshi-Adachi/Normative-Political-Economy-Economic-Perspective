@@ -2,6 +2,7 @@
 title: 20_harsanyi_social_welfare_function
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062557)
 # **Harsanyi’s Social Welfare Function**
 
 ### Introduction
@@ -44,3 +45,4 @@ To illustrate Harsanyi’s reasoning, consider this thought experiment:
 - In practice, this reasoning supports **some level of redistribution** so long as it is not excessively costly. Policymakers thus must balance the gains in equity (where marginal utility is high) against potential efficiency losses.  
 
 By conceptualizing welfare in terms of **expected subjective utility**—and acknowledging that not all income increments are created equal—Harsanyi’s social welfare function neatly captures a **middle ground** in the longstanding debate between equity and efficiency.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062856)

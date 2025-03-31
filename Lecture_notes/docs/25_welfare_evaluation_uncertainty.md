@@ -2,6 +2,7 @@
 title: 25_welfare_evaluation_uncertainty
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062565)
 # Welfare Evaluation under Uncertainty
 
 ### 1. Uncertainty and Welfare Distribution
@@ -136,3 +137,4 @@ In evaluating social welfare under uncertainty, key points include:
 3. When probabilities themselves are unknown, subjective probability differences can lead to paradoxical collective decisions, hinting at deeper issues of belief and information sharing.  
 
 From here, further exploration might involve distinguishing between **risk** (known probabilities) and **true uncertainty** (unknown probabilities), investigating decision-making principles such as **maximin**, **minimax regret**, or **Bayesian** approaches, and considering how society might reach an agreement on models of uncertainty or whether it should respect divergent beliefs.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062832)

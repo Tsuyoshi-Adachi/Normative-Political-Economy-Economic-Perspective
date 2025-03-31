@@ -2,6 +2,7 @@
 title: 02-subjective-welfare-principle
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062260)
 # Your Well-Being Standard Lies Within You (Subjective Welfare Principle)
 
 The concept of “well-being” (happiness or satisfaction) is, according to the **subjective welfare principle**, determined by how each individual personally feels and judges their own situation. In contrast, the **objective welfare principle** bases judgments of well-being on measurements that anyone can observe, such as living standards or health indicators.
@@ -71,3 +72,5 @@ From an intermediate or higher-level microeconomics perspective, the reliance on
 - Methods like **Willingness to Pay** can provide a relatively “objective” benchmark for comparing subjective valuations.  
 
 Economics, therefore, proceeds with the understanding that while “subjective welfare” lies at the core, certain comparative and indirect measurement techniques allow for objective analyses and policy considerations. In subsequent lectures, we will continue exploring how to incorporate subjective welfare maximization into designing policies and social institutions.
+
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062538)

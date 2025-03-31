@@ -2,6 +2,7 @@
 title: 18_examples_social_welfare_functions
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062555)
 # Examples of Social Welfare Functions
 
 ## 1. Atkinson-Type Social Welfare Function
@@ -133,3 +134,5 @@ When combining multiple indicators—such as life expectancy, education, and inc
    - Stands as the unique social welfare criterion that maintains this individual-level scale invariance while treating individuals symmetrically.
 
 3. These properties are particularly relevant for **subjective well-being surveys** (where “0” is recognized as the worst case but individual scales may vary) and for **composite indices** of multiple, potentially incommensurable indicators (e.g., the HDI), where taking the geometric mean controls for extreme disparities.
+
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062858)

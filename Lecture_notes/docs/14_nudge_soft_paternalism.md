@@ -2,6 +2,7 @@
 title: 14_nudge_soft_paternalism
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062272)
 # Nudge and Soft Paternalism
 
 ## Introduction
@@ -44,3 +45,4 @@ These interventions serve as a **slight push** to counteract non-rational habits
 Still, debate continues over whether nudges can become manipulative or lead to more covert forms of paternalism. If, for example, a government or corporation uses nudges to steer people toward outcomes that benefit the organization more than the individual, then the line between “soft paternalism” and “unwanted influence” can blur.
 
 In any case, the question of **how to reconcile the non-rational dimensions of human behavior with a respect for individual subjective well-being** remains a major issue in contemporary welfare economics. Soft paternalism and nudges represent promising strategies, but ongoing research, ethical discussion, and policy evaluation will determine how these ideas evolve and are implemented in practice.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062550)

@@ -2,6 +2,7 @@
 title: 01_welfarism_equilibrium
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062259)
 # Welfarism and Equilibrium
 
 Standard economic theory, when evaluating policies, typically assumes three core elements:
@@ -82,3 +83,5 @@ This procedure is central to economic policy analysis.
 These premises—consequentialism, welfarism, and equilibrium analysis—underlie standard economic methods of policy evaluation. Future lectures will build on this framework to explore more detailed analytical tools and applications in policy-making.
 
 ---
+
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062537)

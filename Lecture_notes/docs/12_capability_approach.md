@@ -2,6 +2,7 @@
 title: 12_capability_approach
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062271)
 # Capability Approach
 
 ### Introduction
@@ -102,3 +103,4 @@ By considering not just economic growth or GDP but also aspects like health and 
   - Emphasizes “human development” rather than purely economic metrics.
 
 In short, **the Capability Approach highlights the multi-layered nature of human well-being** that extends beyond the traditional “goods-and-utility” paradigm in economics. Real-world policy analysis and international comparisons increasingly adopt such multidimensional perspectives, aiming to complement straightforward income-based measures with broader indicators that capture genuine freedoms and opportunities for individuals.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062548)

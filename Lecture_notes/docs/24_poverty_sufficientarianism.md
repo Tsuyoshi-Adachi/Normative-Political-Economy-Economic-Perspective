@@ -2,6 +2,7 @@
 title: 24_poverty_sufficientarianism
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062564)
 # Poverty and Sufficientarianism
 
 ### 1. Introduction
@@ -73,3 +74,4 @@ This lecture has shown how **the mere measurement of inequality** via tools like
 Sufficientarianism provides an ethical and policy-oriented framework that highlights **ameliorating the plight of those below the threshold** as paramount. Furthermore, **equivalent income** and capability-based approaches enhance our ability to assess who is genuinely below a sufficient level, considering real-world constraints beyond nominal income. Together, these ideas deepen our understanding of **“what should be deemed sufficient”** and guide us toward more equitable policy interventions.  
 
 As we proceed, the key questions remain: **how** to set poverty lines and thresholds, **which** indicators to use in measurement and evaluation, and **what** we should accept as “enough” in order to ensure a just and decent life for all.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062831)

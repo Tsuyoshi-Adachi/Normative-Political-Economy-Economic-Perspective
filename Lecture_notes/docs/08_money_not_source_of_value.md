@@ -2,6 +2,7 @@
 title: 08_money_not_source_of_value
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062265)
 # **Money Is Not the Source of Value**
 
 ---
@@ -133,3 +134,4 @@ Up to this point, we have emphasized the idea that “money itself does not inhe
   In advanced economic theory, money is treated not as something with intrinsic worth but rather as a unit of account indicating exchange ratios among goods. Real resources, real consumption, and subjective utility remain the fundamental focus.
 
 Ultimately, always remember: **subjective welfare is the core measure of value in economics, and money is merely the instrument that helps realize that value.**
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062544)

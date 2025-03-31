@@ -2,6 +2,7 @@
 title: 27_population_ethics_social_welfare_functions
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062828)
 # Population Ethics and Social Welfare Functions
 
 ---
@@ -70,3 +71,4 @@ title: 27_population_ethics_social_welfare_functions
 - **Average utilitarianism** can give rise to the **Sadistic Conclusion**, where excluding many moderately happy individuals and replacing them with a few negatively happy individuals raises the overall average.  
 - A proposed remedy is **critical-level utilitarianism**, which sets a positive threshold \(\alpha\) for well-being. While it potentially avoids some of these conclusions, debates continue regarding the appropriate level of \(\alpha\) and other ethical and philosophical implications.
 - In practical policymaking—such as immigration or fertility measures—these theoretical considerations remind us to evaluate not just average or total income/utility, but how newly included (or excluded) individuals fare relative to normative thresholds of a life worth living and a society’s desired quality of life.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062834)

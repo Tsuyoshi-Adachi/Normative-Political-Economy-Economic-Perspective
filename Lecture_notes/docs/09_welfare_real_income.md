@@ -2,6 +2,7 @@
 title: 09_welfare_real_income
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062267)
 # Evaluating Welfare Levels Using Real Income
 
 Using **income** as a benchmark for welfare (well-being) can be relatively convincing within a single society. However, when comparing different societies or different time periods, relying solely on nominal income is often insufficient. Therefore, measures such as **real income** and **equivalent income** have been proposed. In what follows, we will first review why income can be a meaningful measure of welfare within one society, then explore how real income and equivalent income might (or might not) work as welfare indicators across societies. Finally, we will use **indifference curves** to illustrate these concepts more clearly.
@@ -94,3 +95,4 @@ To solidify our understanding, we can use **indifference curves**—a classic to
   In many practical situations, real income remains the most accessible way to compare welfare levels across societies, especially when we focus on “average” situations. For policy evaluation involving *changes* in welfare, concepts like **consumer surplus** or WTP might be more pertinent. Meanwhile, **equivalent income** holds promise for measuring *absolute* welfare levels more accurately—but it remains limited by high implementation costs and methodological constraints.
 
 Overall, **real income** is widespread and easy to gather, yet imperfect for capturing all nuances of welfare. **equivalent income** could, in principle, correct for those nuances but faces significant empirical hurdles. Understanding both concepts—and how they appear on an **indifference curve**—helps clarify the assumptions behind any welfare measure used to compare different individuals, regions, or time periods.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062545)

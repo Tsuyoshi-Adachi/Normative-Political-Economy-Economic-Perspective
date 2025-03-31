@@ -2,6 +2,7 @@
 title: 04_maximizing_total_surplus
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062262)
 # Maximizing Total Surplus
 
 In standard economic theory, many economists argue that for most markets, increasing the total surplus (the sum of consumer surplus and producer surplus) should be a key policy goal. Four main reasons are typically cited:
@@ -97,3 +98,4 @@ This is where the principle is often used to justify focusing on total surplus:
 - **Utilitarianism of Surplus** once equated higher total surplus with higher social welfare, but it disregards the fact that one monetary unit could have vastly different utility for different individuals. Consequently, it is rarely used in its original form today.
 - **The Compensation Principle** suggests that if total surplus rises, a theoretical lump-sum redistribution could achieve a Pareto improvement. However, real-world constraints make such perfect redistribution nearly impossible.
 - As we move forward, we will explore more realistic frameworks, such as Second-Best Theory and distribution-sensitive welfare economics, to better understand the extent to which maximizing total surplus can serve as a practical policy guideline.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062540)

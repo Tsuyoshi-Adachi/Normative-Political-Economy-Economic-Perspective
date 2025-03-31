@@ -2,6 +2,7 @@
 title: 16_equilibrium_welfare_tradeoff_efficiency_equality
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062553)
 # Equilibrium, Welfare, and the Trade-off Between Efficiency and Equality
 
 ### Introduction
@@ -97,3 +98,4 @@ In the previous session, we discussed the importance of evaluating the **final o
   Through **positive economic analysis**, we can estimate and model how policies affect welfare distributions and the size of deadweight losses. However, the final decision—how to balance efficiency and equality—inevitably involves **value judgments** that lie beyond the scope of science alone.
 
 By examining redistribution policies through the lens of equilibrium, we can clearly see how efficiency and equality are often in tension. **Quantifying** that tension represents one of economics’ major contributions, while the **ultimate policy decision** depends on broader societal values and political consensus.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062860)

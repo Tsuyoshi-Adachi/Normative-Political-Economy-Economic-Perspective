@@ -2,6 +2,7 @@
 title: 05_second_best_commodity_taxation
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062263)
 # Second-Best I: Commodity Taxation
 
 ## 1. Commodities Suitable for Redistribution
@@ -107,3 +108,4 @@ In reality, of course, multiple goods interact in complex ways, and the exact po
 ---
 
 That concludes our lecture on **Second-Best I: Commodity Taxation**. In subsequent sessions, we will look into practical applications, historical examples, and more nuanced cases where goods are interrelated or where multiple policy tools are used in combination.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062541)

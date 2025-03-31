@@ -2,6 +2,7 @@
 title: 22_pigou_dalton_transfer_principle
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062559)
 # Pigou-Dalton Transfer Principle
 
 ### Comparison with the Pareto Principle
@@ -70,3 +71,4 @@ Because these two perspectives are equivalent, we say **Pigou-Dalton Transfer Pr
 - Although it cannot provide a complete ranking among all distributions, it does conclusively rank those pairs where one can reach the other by repeated small transfers from higher- to lower-income individuals (without reversing their income order).  
 - **Lorenz curves** illustrate these changes in a cumulative fashion, and any clear dominance in Lorenz curves corresponds directly to the existence of a sequence of Pigou-Dalton transfers.  
 - Hence, Lorenz dominance is not just a convenient graphical tool; it reflects a deeper theoretical rationale—namely the Pigou-Dalton Transfer Principle—that highlights a universal form of “inequality reduction” most observers accept without significant dispute.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062838)

@@ -2,6 +2,7 @@
 title: 06_second_best_income_tax
 ---
 
+## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062264)
 ## 1. Second-Best Taxation (Part II): Income Tax
 
 ### 1.1 Why Labor Income Is the Most Suitable Target for Redistribution
@@ -45,3 +46,4 @@ France’s wealth tax (ISF) is often cited as an example where high-net-worth in
 ---
 
 In sum, labor income is typically seen as the most suitable target for redistribution, with progressive income taxes and public assistance forming a second-best approach in many countries. While assets might seem to offer a more direct way to address wealth disparities, the high substitutability of domestic and foreign assets raises significant concerns about capital flight, prompting caution in designing such policies.
+### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062542)
