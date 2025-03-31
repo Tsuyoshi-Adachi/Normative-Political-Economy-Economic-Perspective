@@ -1,0 +1,20 @@
+site_name: Public Philosophy (Economics Perspective)
+site_url: https://tsuyoshi-adachi.github.io/Normative-Political-Economy-Economic-Perspective/
+nav:
+  - "Part I: Measure Welfare":
+    - "01 Welfarism Equilibrium": "01_welfarism_equilibrium.md"
+    - "02 Subjective Welfare Principle": "02-subjective-welfare-principle.md"
+    - "03 Review of Surplus": "03-review-of-surplus.md"
+    - "04 Maximizing Total Surplus": "04_maximizing_total_surplus.md"
+    - "05 Second Best Commodity Taxation": "05_second_best_commodity_taxation.md"
+    - "06 Second Best Income Tax": "06_second_best_income_tax.md"
+    - "07 Maximizing Total Surplus Summary": "07_maximizing_total_surplus_summary.md"
+    - "08 Money Not Source of Value": "08_money_not_source_of_value.md"
+    - "09 Welfare Real Income": "09_welfare_real_income.md"
+    - "10 WTP Income Effect": "10_wtp_income_effect.md"
+    - "11 Informational Content Welfare Measures": "11_informational_content_welfare_measures.md"
+    - "12 Capability Approach": "12_capability_approach.md"
+    - "13 Subjective Wellbeing Dashboard": "13_subjective_wellbeing_dashboard.md"
+    - "14 Nudge Soft Paternalism": "14_nudge_soft_paternalism.md"
+theme:
+  name: material
