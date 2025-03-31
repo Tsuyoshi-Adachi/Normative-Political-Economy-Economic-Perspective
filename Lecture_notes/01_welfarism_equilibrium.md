@@ -1,5 +1,4 @@
 ---
-layout: page
 title: 01_welfarism_equilibrium
 ---
 
