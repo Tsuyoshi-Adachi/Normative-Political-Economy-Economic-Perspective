@@ -1,3 +1,7 @@
+---
+title: 15_welfare_distribution_economics_as_science
+---
+
 # Welfare Distribution and Economics as a Science
 
 - In previous lectures, we examined various welfare indicators. From here, we will discuss how to select policies based on those welfare measures.  

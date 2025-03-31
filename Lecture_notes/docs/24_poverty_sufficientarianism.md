@@ -1,4 +1,8 @@
-## Poverty and Sufficientarianism
+---
+title: 24_poverty_sufficientarianism
+---
+
+# Poverty and Sufficientarianism
 
 ### 1. Introduction
 The Lorenz curve and the Gini coefficient are useful tools for visualizing the degree of **unevenness in the distribution** of social welfare. However, our normative concerns about “fair distribution” or “poverty” cannot be fully captured by unevenness alone. In particular, we care deeply about how many people are in disadvantaged positions and how severe those disadvantages are. This lecture first illustrates that concern with an example, then reviews the conceptual definitions of “poverty,” and finally examines how the approach called **sufficientarianism** relates to issues of poverty.

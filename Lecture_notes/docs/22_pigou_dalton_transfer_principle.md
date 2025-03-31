@@ -1,3 +1,7 @@
+---
+title: 22_pigou_dalton_transfer_principle
+---
+
 # Pigou-Dalton Transfer Principle
 
 ### Comparison with the Pareto Principle

@@ -1,3 +1,7 @@
+---
+title: 16_equilibrium_welfare_tradeoff_efficiency_equality
+---
+
 # Equilibrium, Welfare, and the Trade-off Between Efficiency and Equality
 
 ### Introduction

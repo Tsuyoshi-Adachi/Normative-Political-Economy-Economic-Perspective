@@ -1,3 +1,7 @@
+---
+title: 19_cautions_division_of_labor
+---
+
 # Cautions Concerning the Idea of “Division of Labor”
 
 We have seen that the so-called “social welfare function approach,” or the separation of **normative analysis** (which involves value judgments) from **positive/empirical analysis** (which focuses on factual, testable claims), remains widely accepted among modern economists. However, if we treat this separation merely as a form of “division of labor,” we risk misunderstandings when it comes to actual policy discussions or public debates. In this short topic, we will consider why this deserves our careful attention and how to approach the statements and analyses of economists in the real world.

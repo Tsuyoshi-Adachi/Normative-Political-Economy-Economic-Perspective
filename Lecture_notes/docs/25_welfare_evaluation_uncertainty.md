@@ -1,3 +1,7 @@
+---
+title: 25_welfare_evaluation_uncertainty
+---
+
 # Welfare Evaluation under Uncertainty
 
 ### 1. Uncertainty and Welfare Distribution

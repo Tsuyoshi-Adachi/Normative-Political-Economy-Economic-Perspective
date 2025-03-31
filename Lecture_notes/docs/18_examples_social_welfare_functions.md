@@ -1,3 +1,7 @@
+---
+title: 18_examples_social_welfare_functions
+---
+
 # Examples of Social Welfare Functions
 
 ## 1. Atkinson-Type Social Welfare Function

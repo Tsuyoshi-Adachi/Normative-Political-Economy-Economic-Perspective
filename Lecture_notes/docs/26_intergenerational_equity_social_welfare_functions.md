@@ -1,3 +1,7 @@
+---
+title: 26_intergenerational_equity_social_welfare_functions
+---
+
 # Intergenerational Equity and Social Welfare Functions
 
 Contemporary macroeconomic policy discussions—especially in growth theory and public debt—must consider the welfare of different generations. To evaluate policies, we use a social welfare function (SWF). In this framework, we often focus on **welfare across generations** in equilibrium (rather than individual utilities per se), and these generations extend indefinitely. Consequently, the welfare distribution is an **infinite-dimensional** vector, which poses unique conceptual and mathematical challenges.

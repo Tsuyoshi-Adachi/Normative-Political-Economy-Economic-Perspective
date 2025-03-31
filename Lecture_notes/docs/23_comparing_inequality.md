@@ -1,4 +1,8 @@
-## Comparing Inequality
+---
+title: 23_comparing_inequality
+---
+
+# Comparing Inequality
 
 ### Gini Coefficient
 

@@ -1,3 +1,7 @@
+---
+title: 20_harsanyi_social_welfare_function
+---
+
 # **Harsanyi’s Social Welfare Function**
 
 ### Introduction

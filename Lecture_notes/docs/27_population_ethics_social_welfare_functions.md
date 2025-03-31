@@ -1,3 +1,7 @@
+---
+title: 27_population_ethics_social_welfare_functions
+---
+
 # Population Ethics and Social Welfare Functions
 
 ---

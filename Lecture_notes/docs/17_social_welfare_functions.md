@@ -1,3 +1,7 @@
+---
+title: 17_social_welfare_functions
+---
+
 # Social Welfare Functions
 
 ---

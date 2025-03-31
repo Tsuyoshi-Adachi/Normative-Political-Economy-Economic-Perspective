@@ -1,3 +1,7 @@
+---
+title: 21_lorenz_curve
+---
+
 # **The Lorenz Curve**
 
 ---
