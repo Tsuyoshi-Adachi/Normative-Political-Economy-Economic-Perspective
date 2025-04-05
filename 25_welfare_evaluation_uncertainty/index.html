@@ -1220,7 +1220,7 @@
 <h2 id="watch-the-introductory-video-here"><a href="https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062565">📹 Watch the introductory video here</a></h2>
 <h1 id="welfare-evaluation-under-uncertainty">Welfare Evaluation under Uncertainty</h1>
 <h3 id="1-uncertainty-and-welfare-distribution">1. Uncertainty and Welfare Distribution</h3>
-<p>In real-world policy decisions, it is extremely difficult to predict exactly how a policy will affect each individual’s well-being. For instance, even if we try to forecast who will benefit from Policy A and who will lose, both theoretical and empirical predictions are often accompanied by uncertainty. Consequently, we have no choice but to rely on probabilistic information—e.g., “Policy A yields outcome X with some probability (p), and outcome Y with probability (1-p).”</p>
+<p>In real-world policy decisions, it is extremely difficult to predict exactly how a policy will affect each individual’s well-being. For instance, even if we try to forecast who will benefit from Policy A and who will lose, both theoretical and empirical predictions are often accompanied by uncertainty. Consequently, we have no choice but to rely on probabilistic information—e.g., “Policy A yields outcome X with some probability <span class="arithmatex">\(p\)</span>, and outcome Y with probability <span class="arithmatex">\(1-p\)</span>.”</p>
 <p>However, this probabilistic information itself may be imperfect and not necessarily shared by all members of society. Despite these challenges, let us first assume that there is a consensus on the relevant probability distribution of outcomes (i.e., a known risk). We will then consider how to evaluate social welfare under this assumption. Afterward, we will explore scenarios in which the probability distribution itself is uncertain (i.e., subjective and potentially disagreeable among individuals).</p>
 <hr />
 <h3 id="2-two-approaches-to-the-social-welfare-function">2. Two Approaches to the Social Welfare Function</h3>
@@ -1228,11 +1228,11 @@
 <ol>
 <li>
 <p><strong>Ex-ante Approach (Expected Individual Welfare):</strong><br />
-   Each individual’s welfare is replaced by its expected value before applying the social welfare function. Formally, if (u_i) denotes person (i)’s (random) welfare, then in this approach we compute
+   Each individual’s welfare is replaced by its expected value before applying the social welfare function. Formally, if <span class="arithmatex">\(u_i\)</span> denotes person <span class="arithmatex">\(i\)</span>’s (random) welfare, then in this approach we compute
    [
      W\bigl(E[u_1], E[u_2], \dots, E[u_N]\bigr),
    ]
-   where (E[u_i]) is the expected welfare of individual (i), and (W(\cdot)) is the social welfare function.</p>
+   where <span class="arithmatex">\(E[u_i]\)</span> is the expected welfare of individual <span class="arithmatex">\(i\)</span>, and <span class="arithmatex">\(W(\cdot)\)</span> is the social welfare function.</p>
 </li>
 <li>
 <p><strong>Ex-post Approach (Expected Value of the Social Welfare):</strong><br />
@@ -1249,9 +1249,9 @@
 <p>Consider a simple example with two individuals (labeled 1 and 2) and two policies, A and B:</p>
 <ul>
 <li><strong>Policy A</strong>:  </li>
-<li>There are two possible outcomes, ((0,10)) and ((10,0)), each with 50% probability.  </li>
+<li>There are two possible outcomes, <span class="arithmatex">\((0,10)\)</span> and <span class="arithmatex">\((10,0)\)</span>, each with 50% probability.  </li>
 <li><strong>Policy B</strong>:  </li>
-<li>There is only one outcome, ((3,3)), with 100% probability.</li>
+<li>There is only one outcome, <span class="arithmatex">\((3,3)\)</span>, with 100% probability.</li>
 </ul>
 <p>Let us use a <strong>Rawlsian social welfare function</strong> defined by
 [
@@ -1279,9 +1279,9 @@ By this criterion, <strong>Policy B</strong> is strictly preferred.</li>
 <h4 id="32-ex-ante-approach-social-welfare-of-expected-welfare">3.2 Ex-ante Approach (Social Welfare of Expected Welfare)</h4>
 <ol>
 <li><strong>Policy A</strong>:  </li>
-<li>Individual 1’s expected welfare is (0.5 \times 0 + 0.5 \times 10 = 5).  </li>
+<li>Individual 1’s expected welfare is <span class="arithmatex">\(0.5 \times 0 + 0.5 \times 10 = 5\)</span>.  </li>
 <li>Individual 2’s expected welfare is also 5.  </li>
-<li>Thus, the welfare vector in expectation is ((5,5)). Applying the Rawlsian function,
+<li>Thus, the welfare vector in expectation is <span class="arithmatex">\((5,5)\)</span>. Applying the Rawlsian function,
      [
        \min{5, 5} = 5.
      ]</li>
@@ -1301,25 +1301,25 @@ so <strong>Policy A</strong> is strictly preferred.</li>
 <li><strong>Ex-post (Expected Score of the Social Welfare)</strong> emphasizes “how poorly off the worst-off person is in each realized outcome,” and then averages that over the possible states.</li>
 <li><strong>Ex-ante (Social Welfare of Expected Outcomes)</strong> emphasizes “how poorly off the worst-off person is in terms of expected welfare,” effectively smoothing over states before identifying the worst-off.</li>
 </ul>
-<p>As shown, for a <strong>Rawlsian</strong> (maximin) social welfare function, the policy ranking can differ significantly between these two methods. By contrast, when the social welfare function is <strong>utilitarian</strong>, i.e. (W(u_1, u_2) = u_1 + u_2), the two approaches yield the same ranking because the expectation of sums is the sum of expectations.</p>
+<p>As shown, for a <strong>Rawlsian</strong> (maximin) social welfare function, the policy ranking can differ significantly between these two methods. By contrast, when the social welfare function is <strong>utilitarian</strong>, i.e. <span class="arithmatex">\(W(u_1, u_2) = u_1 + u_2\)</span>, the two approaches yield the same ranking because the expectation of sums is the sum of expectations.</p>
 <hr />
 <h3 id="4-when-probabilities-are-unknown">4. When Probabilities Are Unknown</h3>
-<p>Up to now, we have assumed that everyone agrees on the probability distribution (e.g., a 50% chance of ((0,10)) or ((10,0)) under Policy A). In reality, however, people may disagree on those probabilities. Indeed, there might be no universally accepted data or model to pin them down.</p>
+<p>Up to now, we have assumed that everyone agrees on the probability distribution (e.g., a 50% chance of <span class="arithmatex">\((0,10)\)</span> or <span class="arithmatex">\((10,0)\)</span> under Policy A). In reality, however, people may disagree on those probabilities. Indeed, there might be no universally accepted data or model to pin them down.</p>
 <p>Suppose:</p>
 <ul>
 <li>There are two individuals (1 and 2).</li>
-<li><strong>Policy A</strong> could yield welfare ((0,10)) or ((10,0)), but the probabilities are uncertain.</li>
-<li><strong>Policy B</strong> yields a certain outcome of ((8,8)).</li>
+<li><strong>Policy A</strong> could yield welfare <span class="arithmatex">\((0,10)\)</span> or <span class="arithmatex">\((10,0)\)</span>, but the probabilities are uncertain.</li>
+<li><strong>Policy B</strong> yields a certain outcome of <span class="arithmatex">\((8,8)\)</span>.</li>
 </ul>
 <p>Imagine that:</p>
 <ul>
-<li>Individual 1 strongly believes that ((10,0)) will happen under Policy A.</li>
-<li>Individual 2 strongly believes that ((0,10)) will happen under Policy A.</li>
+<li>Individual 1 strongly believes that <span class="arithmatex">\((10,0)\)</span> will happen under Policy A.</li>
+<li>Individual 2 strongly believes that <span class="arithmatex">\((0,10)\)</span> will happen under Policy A.</li>
 </ul>
 <p>These two beliefs may be <strong>objectively inconsistent</strong>—they can’t both be correct at the same time—yet:</p>
 <ul>
-<li>Individual 1 sees a high chance of getting 10 under Policy A and thus prefers A to ((8,8)).</li>
-<li>Individual 2 sees a high chance of getting 10 under Policy A and likewise prefers A to ((8,8)).</li>
+<li>Individual 1 sees a high chance of getting 10 under Policy A and thus prefers A to <span class="arithmatex">\((8,8)\)</span>.</li>
+<li>Individual 2 sees a high chance of getting 10 under Policy A and likewise prefers A to <span class="arithmatex">\((8,8)\)</span>.</li>
 </ul>
 <p>Both would then favor Policy A over B, even though their probability assessments are mutually contradictory from a purely objective standpoint.</p>
 <hr />
@@ -1403,6 +1403,8 @@ so <strong>Policy A</strong> is strictly preferred.</li>
     
     
       <script src="../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>

@@ -888,7 +888,7 @@
           <li class="md-nav__item">
   <a href="#average-income-times-gini-coefficient-interpretation" class="md-nav__link">
     <span class="md-ellipsis">
-      “Average Income $\times$ Gini Coefficient” Interpretation
+      “Average Income \(\times\) Gini Coefficient” Interpretation
     </span>
   </a>
   
@@ -1137,7 +1137,7 @@
           <li class="md-nav__item">
   <a href="#average-income-times-gini-coefficient-interpretation" class="md-nav__link">
     <span class="md-ellipsis">
-      “Average Income $\times$ Gini Coefficient” Interpretation
+      “Average Income \(\times\) Gini Coefficient” Interpretation
     </span>
   </a>
   
@@ -1219,9 +1219,9 @@
 <p>To deal with this limitation, we often use a <strong>single scalar index</strong> derived from the Lorenz curve called the <strong>Gini coefficient</strong>. This allows us to compare inequality even when the Lorenz curves intersect, by providing a single numerical value that summarizes the shape of the distribution.</p>
 <h4 id="definition-of-the-gini-coefficient">Definition of the Gini Coefficient</h4>
 <p>The Gini coefficient $ G $ is defined using the area between the Lorenz curve and the line of perfect equality (the 45-degree line). Specifically,</p>
-<p>$$
+<div class="arithmatex">\[
 G = 1 - 2 \times (\text{area under the Lorenz curve}),
-$$</p>
+\]</div>
 <p>where:
 - The horizontal axis represents the cumulative proportion of the population (from 0 to 1).
 - The vertical axis represents the cumulative proportion of income (also from 0 to 1).</p>
@@ -1232,10 +1232,10 @@ $$</p>
 <li>$ G $ closer to 1 means near-perfect inequality (one person holds virtually all the income).  </li>
 <li>In real-world contexts, the Gini coefficient rarely goes below 20%, and once it exceeds 40%, it is often considered a signal of serious inequality.</li>
 </ul>
-<h4 id="average-income-times-gini-coefficient-interpretation">“Average Income $\times$ Gini Coefficient” Interpretation</h4>
+<h4 id="average-income-times-gini-coefficient-interpretation">“Average Income <span class="arithmatex">\(\times\)</span> Gini Coefficient” Interpretation</h4>
 <p>An important interpretation of the Gini coefficient is:</p>
 <blockquote>
-<p>“Average Income $\times$ Gini Coefficient” = “Average of the absolute income differences between all possible pairs of individuals.”</p>
+<p>“Average Income <span class="arithmatex">\(\times\)</span> Gini Coefficient” = “Average of the absolute income differences between all possible pairs of individuals.”</p>
 </blockquote>
 <p>In other words, the Gini coefficient indicates <strong>what percent of the mean income</strong> corresponds to the expected income gap between two randomly chosen individuals in the society.</p>
 <h4 id="international-comparisons">International Comparisons</h4>
@@ -1333,6 +1333,8 @@ $$</p>
     
     
       <script src="../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>

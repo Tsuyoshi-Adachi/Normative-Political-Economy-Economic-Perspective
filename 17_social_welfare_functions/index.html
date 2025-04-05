@@ -1285,22 +1285,22 @@
 <p>Another critical requirement is <strong>transitivity</strong>. If society prefers (100, 50) over (60, 60), and prefers (60, 60) over (80, 55), it must not happen that society prefers (80, 55) over (100, 50). A violation of transitivity could lead to cyclical preferences, meaning that by sequentially adopting “better” policy options according to the stated criterion, society might eventually cycle back to the original distribution. This would undermine the premise that following society’s evaluation criterion leads to genuinely better outcomes.</p>
 <hr />
 <h3 id="definition-and-representation-of-the-social-welfare-function">Definition and Representation of the Social Welfare Function</h3>
-<p>If a societal criterion for evaluating welfare distributions is <strong>complete</strong> and <strong>transitive</strong>, it can be represented by a <strong>single numeric score</strong> that assigns to each welfare distribution $\mathbf{u} = (u_1, u_2, \dots, u_n)$. That is, there exists some function $W(\mathbf{u})$ such that
+<p>If a societal criterion for evaluating welfare distributions is <strong>complete</strong> and <strong>transitive</strong>, it can be represented by a <strong>single numeric score</strong> that assigns to each welfare distribution <span class="arithmatex">\(\mathbf{u} = (u_1, u_2, \dots, u_n)\)</span>. That is, there exists some function <span class="arithmatex">\(W(\mathbf{u})\)</span> such that
 $$
 W(\mathbf{u}) &gt; W(\mathbf{v}) \quad \Longleftrightarrow \quad \text{Society prefers } \mathbf{u} \text{ over } \mathbf{v}.
 $$
-This function $W$ is known as the <strong>social welfare function</strong>.</p>
+This function <span class="arithmatex">\(W\)</span> is known as the <strong>social welfare function</strong>.</p>
 <hr />
 <h3 id="representative-examples">Representative Examples</h3>
 <ul>
 <li>
 <p><strong>Utilitarian Criterion</strong><br />
-  In utilitarianism, social welfare is the sum or average of individual welfare levels. Concretely, for $n$ individuals,
+  In utilitarianism, social welfare is the sum or average of individual welfare levels. Concretely, for <span class="arithmatex">\(n\)</span> individuals,
   $$
     W_{\text{util}}(u_1, u_2, \dots, u_n)
       = \frac{1}{n} \sum_{i=1}^n u_i
   $$
-  or simply the total $\sum_{i=1}^n u_i$. Utilitarianism aims to maximize this aggregate or average.</p>
+  or simply the total <span class="arithmatex">\(\sum_{i=1}^n u_i\)</span>. Utilitarianism aims to maximize this aggregate or average.</p>
 </li>
 <li>
 <p><strong>Rawlsian Criterion</strong><br />
@@ -1316,13 +1316,13 @@ This function $W$ is known as the <strong>social welfare function</strong>.</p>
 <p><img alt="eabf9855-36ba-489d-bf0e-2379e5ac2db7" src="https://hackmd.io/_uploads/HJnP6-Dh1e.gif" /></p>
 <hr />
 <h2 id="utility-functions-and-social-welfare-functions-for-those-who-have-completed-intermediate-microeconomics">Utility Functions and Social Welfare Functions (For Those Who Have Completed Intermediate Microeconomics)</h2>
-<p>From intermediate microeconomics, we know that a <strong>utility function</strong> maps an individual’s consumption bundle to that individual’s level of utility. By analogy, a <strong>social welfare function</strong> maps a vector of individuals’ welfare levels $(u_1, u_2, \dots, u_n)$ to the overall “desirability” for society. </p>
+<p>From intermediate microeconomics, we know that a <strong>utility function</strong> maps an individual’s consumption bundle to that individual’s level of utility. By analogy, a <strong>social welfare function</strong> maps a vector of individuals’ welfare levels <span class="arithmatex">\((u_1, u_2, \dots, u_n)\)</span> to the overall “desirability” for society. </p>
 <ul>
 <li>Hence, we can think of a social welfare function much like we think of a utility function, but at the societal level.  </li>
 <li>Just as utility functions can be represented with <strong>indifference curves</strong>, social welfare functions can be represented with <strong>social indifference curves</strong> (sometimes called <strong>equal-welfare curves</strong>).  </li>
-<li>For a two-person society, we might plot $u_1$ on the horizontal axis and $u_2$ on the vertical axis. Points on the same “social indifference curve” indicate the same level of social welfare according to the chosen social welfare function.  </li>
-<li>In a utilitarian function $W = (u_1 + u_2)/2$, these curves would be straight lines with a negative slope (reflecting constant sums).  </li>
-<li>In a Rawlsian function $W = \min(u_1, u_2)$, the indifference curves resemble L-shaped contours, where both $u_1$ and $u_2$ must increase to raise the minimum.</li>
+<li>For a two-person society, we might plot <span class="arithmatex">\(u_1\)</span> on the horizontal axis and <span class="arithmatex">\(u_2\)</span> on the vertical axis. Points on the same “social indifference curve” indicate the same level of social welfare according to the chosen social welfare function.  </li>
+<li>In a utilitarian function <span class="arithmatex">\(W = (u_1 + u_2)/2\)</span>, these curves would be straight lines with a negative slope (reflecting constant sums).  </li>
+<li>In a Rawlsian function <span class="arithmatex">\(W = \min(u_1, u_2)\)</span>, the indifference curves resemble L-shaped contours, where both <span class="arithmatex">\(u_1\)</span> and <span class="arithmatex">\(u_2\)</span> must increase to raise the minimum.</li>
 </ul>
 <p>This graphical approach provides insight analogous to that of utility analysis in microeconomics, helping us understand trade-offs between individuals’ welfare levels.</p>
 <hr />
@@ -1336,9 +1336,9 @@ This function $W$ is known as the <strong>social welfare function</strong>.</p>
 <hr />
 <h3 id="additional-note-advanced">Additional Note (Advanced)</h3>
 <p>Strictly speaking, representing society’s preference as a social welfare function also requires <strong>continuity</strong>. Informally:
-- Given any three welfare vectors $w, w', w''$, if society prefers $w'$ to $w$, and prefers $w$ to $w''$, there should exist a point between $w'$ and $w''$ (e.g., $a\,w' + (1-a)\,w''$ for some $a \in (0,1)$) that society finds indifferent to $w$.<br />
+- Given any three welfare vectors <span class="arithmatex">\(w, w', w''\)</span>, if society prefers <span class="arithmatex">\(w'\)</span> to <span class="arithmatex">\(w\)</span>, and prefers <span class="arithmatex">\(w\)</span> to <span class="arithmatex">\(w''\)</span>, there should exist a point between <span class="arithmatex">\(w'\)</span> and <span class="arithmatex">\(w''\)</span> (e.g., <span class="arithmatex">\(a\,w' + (1-a)\,w''\)</span> for some <span class="arithmatex">\(a \in (0,1)\)</span>) that society finds indifferent to <span class="arithmatex">\(w\)</span>.<br />
 - In other words, small changes in the welfare distribution should not cause erratic “jumps” in preference.  </p>
-<p>A well-known mathematical result states that if a preference relation is <strong>complete</strong>, <strong>transitive</strong>, and <strong>continuous</strong>, then it can indeed be represented by a real-valued function, such as a social welfare function $W$. Continuity thus underpins the idea that we can model societal preferences as a single, smooth function of welfare levels.</p>
+<p>A well-known mathematical result states that if a preference relation is <strong>complete</strong>, <strong>transitive</strong>, and <strong>continuous</strong>, then it can indeed be represented by a real-valued function, such as a social welfare function <span class="arithmatex">\(W\)</span>. Continuity thus underpins the idea that we can model societal preferences as a single, smooth function of welfare levels.</p>
 <hr />
 <h3 id="summary">Summary</h3>
 <ol>
@@ -1408,6 +1408,8 @@ This function $W$ is known as the <strong>social welfare function</strong>.</p>
     
     
       <script src="../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>

@@ -1181,10 +1181,10 @@
 <hr />
 <h2 id="1-social-welfare-function">1. Social Welfare Function</h2>
 <p>A commonly used form of the social welfare function employs discounting:</p>
-<p>$$
+<div class="arithmatex">\[
  W = \sum_{t=0}^{\infty} \beta^t u_t,
-$$</p>
-<p>where $u_t$ is the welfare of generation $t$, and $\beta$ $(0&lt;\beta&lt;1)$ is the social discount factor. In practical policy terms, this reflects the notion that distant future generations receive smaller weights (much like discounting future cash flows). However, the <strong>normative</strong> justification for such discounting can be controversial.</p>
+\]</div>
+<p>where <span class="arithmatex">\(u_t\)</span> is the welfare of generation <span class="arithmatex">\(t\)</span>, and <span class="arithmatex">\(\beta\)</span> <span class="arithmatex">\((0&lt;\beta&lt;1)\)</span> is the social discount factor. In practical policy terms, this reflects the notion that distant future generations receive smaller weights (much like discounting future cash flows). However, the <strong>normative</strong> justification for such discounting can be controversial.</p>
 <hr />
 <h2 id="2-monetary-vs-utility-discounting">2. Monetary vs. Utility Discounting</h2>
 <ol>
@@ -1204,12 +1204,12 @@ $$</p>
 <h2 id="3-fair-treatment-of-generations-and-the-pareto-principle">3. Fair Treatment of Generations and the Pareto Principle</h2>
 <p>One might desire a function that treats all generations <strong>symmetrically</strong>, not favoring any particular generation. This approach mirrors the symmetry often imposed on individual-level social welfare functions (e.g., an Atkinson-type function). Yet, an infinite sequence of generational welfare levels reveals non-intuitive properties.</p>
 <p>Consider the two sequences:</p>
-<p>$$
+<div class="arithmatex">\[
 \begin{cases}
-(1,\tfrac12,\; 2,\; \tfrac13,\; 3,\; \tfrac14,\; 4,\; \tfrac15,\;5,\;\dots)\
+(1,\tfrac12,\; 2,\; \tfrac13,\; 3,\; \tfrac14,\; 4,\; \tfrac15,\;5,\;\dots)\\
 (2,\; 1,\; 3,\; \tfrac12,\; 4,\; \tfrac13,\; 5,\;\tfrac14,\; 4,\;\dots).
 \end{cases}
-$$</p>
+\]</div>
 <ul>
 <li>The second sequence can be seen as a reordering (shifting) of the first, so if we insist on <strong>complete symmetry</strong>, we would consider them equally desirable.  </li>
 <li>However, from a <strong>Pareto</strong> standpoint, the second strictly improves each generation’s welfare over the first, suggesting it should be viewed as strictly better.</li>
@@ -1219,8 +1219,8 @@ $$</p>
 <h2 id="4-optional-for-intermediate-macroeconomics-students-no-discount-social-welfare-function">4. <em>Optional for Intermediate Macroeconomics Students:</em> No-Discount Social Welfare Function</h2>
 <p>An alternative framework <strong>without discounting</strong> can be considered. One example is a social welfare function based on the <em>limit inferior</em> (“lim inf”) of the welfare sequence:</p>
 <ul>
-<li>If the welfare sequence $(u_t)$ <strong>converges</strong>, the social welfare score is simply its <strong>limit</strong>.  </li>
-<li>If $(u_t)$ <strong>oscillates</strong> or does not converge, then the social welfare score is the <strong>lower limit</strong> (i.e., $\liminf_{t\to\infty} u_t$).</li>
+<li>If the welfare sequence <span class="arithmatex">\((u_t)\)</span> <strong>converges</strong>, the social welfare score is simply its <strong>limit</strong>.  </li>
+<li>If <span class="arithmatex">\((u_t)\)</span> <strong>oscillates</strong> or does not converge, then the social welfare score is the <strong>lower limit</strong> (i.e., <span class="arithmatex">\(\liminf_{t\to\infty} u_t\)</span>).</li>
 </ul>
 <h3 id="implications">Implications</h3>
 <ul>
@@ -1297,6 +1297,8 @@ $$</p>
     
     
       <script src="../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>

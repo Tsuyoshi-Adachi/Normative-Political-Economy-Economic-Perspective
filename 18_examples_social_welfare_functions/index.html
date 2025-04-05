@@ -1341,61 +1341,61 @@
 <h1 id="examples-of-social-welfare-functions">Examples of Social Welfare Functions</h1>
 <h2 id="1-atkinson-type-social-welfare-function">1. Atkinson-Type Social Welfare Function</h2>
 <h3 id="11-definition-and-inequality-aversion">1.1 Definition and Inequality Aversion</h3>
-<p>The Atkinson-type social welfare function (Atkinson’s Social Welfare Function) often takes the following form. Let $x_i$ denote the welfare level of individual $i$, and let there be $n$ individuals in total. The parameter $\epsilon$ represents the degree of inequality aversion:</p>
-<p>$$
+<p>The Atkinson-type social welfare function (Atkinson’s Social Welfare Function) often takes the following form. Let <span class="arithmatex">\(x_i\)</span> denote the welfare level of individual <span class="arithmatex">\(i\)</span>, and let there be <span class="arithmatex">\(n\)</span> individuals in total. The parameter <span class="arithmatex">\(\epsilon\)</span> represents the degree of inequality aversion:</p>
+<div class="arithmatex">\[
 W_{\epsilon}(x_1, x_2, \ldots, x_n) = \begin{cases}
-\left(\frac{1}{n} \sum_{i=1}^n x_i^{\,1-\epsilon}\right)^{\frac{1}{\,1-\epsilon}}\quad (\epsilon \neq 1),\
+\left(\frac{1}{n} \sum_{i=1}^n x_i^{\,1-\epsilon}\right)^{\frac{1}{\,1-\epsilon}}\quad (\epsilon \neq 1),\\
 \left(\prod_{i=1}^n x_i\right)^{\frac{1}{n}} \quad (\epsilon = 1). 
 \end{cases}
-$$</p>
+\]</div>
 <ul>
-<li>When $\epsilon = 0$, this reduces to the simple average $\left(\tfrac{1}{n}\sum x_i\right)$, aligning with a <strong>utilitarian</strong> social welfare function (i.e., maximizing total welfare).  </li>
-<li>As $\epsilon \to \infty$, the function approaches the <strong>Rawlsian</strong> social welfare function, focusing on maximizing the minimum welfare level (Max–Min criterion).  </li>
-<li>A larger $\epsilon$ places greater weight on those with lower welfare levels, thus reflecting a stronger aversion to inequality.</li>
+<li>When <span class="arithmatex">\(\epsilon = 0\)</span>, this reduces to the simple average <span class="arithmatex">\(\left(\tfrac{1}{n}\sum x_i\right)\)</span>, aligning with a <strong>utilitarian</strong> social welfare function (i.e., maximizing total welfare).  </li>
+<li>As <span class="arithmatex">\(\epsilon \to \infty\)</span>, the function approaches the <strong>Rawlsian</strong> social welfare function, focusing on maximizing the minimum welfare level (Max–Min criterion).  </li>
+<li>A larger <span class="arithmatex">\(\epsilon\)</span> places greater weight on those with lower welfare levels, thus reflecting a stronger aversion to inequality.</li>
 </ul>
 <p><img alt="91a7f739-3e32-4404-a760-af4c7311dba1" src="https://hackmd.io/_uploads/BJJeJfP3kx.gif" /></p>
 <h3 id="12-scale-invariance">1.2 Scale Invariance</h3>
-<p>A key property of the Atkinson-type social welfare function is <strong>scale invariance</strong>: if all welfare levels $x_i$ are scaled by the same positive factor (e.g., multiplied by 100 or by 1/1000), the ranking of different policy outcomes or distributions remains unchanged.</p>
+<p>A key property of the Atkinson-type social welfare function is <strong>scale invariance</strong>: if all welfare levels <span class="arithmatex">\(x_i\)</span> are scaled by the same positive factor (e.g., multiplied by 100 or by 1/1000), the ranking of different policy outcomes or distributions remains unchanged.</p>
 <ul>
 <li>In other words, the choice of a policy is unaffected by whether welfare is measured in, say, monthly income or annual income, as long as all individuals’ measures are scaled equally.  </li>
-<li>Mathematically, it can be shown that any social welfare criterion that treats all individuals symmetrically and is invariant to uniform scaling of all welfare levels must be representable by an Atkinson-type function for some $\epsilon$.</li>
+<li>Mathematically, it can be shown that any social welfare criterion that treats all individuals symmetrically and is invariant to uniform scaling of all welfare levels must be representable by an Atkinson-type function for some <span class="arithmatex">\(\epsilon\)</span>.</li>
 </ul>
 <h4 id="significance">Significance</h4>
 <p>Because the evaluation does not depend on absolute levels of welfare but rather on relative differences or distributional shape, this framework is highly practical for policymaking. It allows flexibility in the units used for welfare measurement without altering conclusions.</p>
 <h3 id="13-relationship-to-utilitarianism">1.3 Relationship to Utilitarianism</h3>
-<p>For $\epsilon = 0$, the Atkinson function is simply the arithmetic mean $\left(\tfrac{1}{n}\sum x_i\right)$, which coincides with the classical utilitarian focus on maximizing total (or average) welfare.</p>
+<p>For <span class="arithmatex">\(\epsilon = 0\)</span>, the Atkinson function is simply the arithmetic mean <span class="arithmatex">\(\left(\tfrac{1}{n}\sum x_i\right)\)</span>, which coincides with the classical utilitarian focus on maximizing total (or average) welfare.</p>
 <h3 id="14-relationship-to-the-rawlsian-criterion">1.4 Relationship to the Rawlsian Criterion</h3>
-<p>As $\epsilon$ becomes very large, the Atkinson function places increased emphasis on the individual(s) with the lowest welfare level. In the limit, it converges to the Rawlsian Max–Min rule (maximizing the minimum welfare).</p>
+<p>As <span class="arithmatex">\(\epsilon\)</span> becomes very large, the Atkinson function places increased emphasis on the individual(s) with the lowest welfare level. In the limit, it converges to the Rawlsian Max–Min rule (maximizing the minimum welfare).</p>
 <hr />
 <h2 id="2-nash-type-social-welfare-function">2. Nash-Type Social Welfare Function</h2>
 <h3 id="21-definition-and-main-characteristics">2.1 Definition and Main Characteristics</h3>
-<p>When $\epsilon = 1$, the Atkinson-type social welfare function is called the <strong>Nash-type social welfare function</strong>. It takes the form</p>
-<p>$$
+<p>When <span class="arithmatex">\(\epsilon = 1\)</span>, the Atkinson-type social welfare function is called the <strong>Nash-type social welfare function</strong>. It takes the form</p>
+<div class="arithmatex">\[
 W_{1}(x_1, x_2, \ldots, x_n) 
 = \left(\prod_{i=1}^n x_i\right)^{\frac{1}{n}},
-$$</p>
-<p>which is the <strong>geometric mean</strong> of the individual welfare levels. Equivalently, taking logarithms yields a sum of logs: $\sum_{i=1}^n \log x_i$. This is why it is also referred to as the “log-sum criterion.”</p>
+\]</div>
+<p>which is the <strong>geometric mean</strong> of the individual welfare levels. Equivalently, taking logarithms yields a sum of logs: <span class="arithmatex">\(\sum_{i=1}^n \log x_i\)</span>. This is why it is also referred to as the “log-sum criterion.”</p>
 <h3 id="22-individual-scale-invariance">2.2 Individual Scale Invariance</h3>
-<p>The Nash-type function ($\epsilon = 1$) exhibits not only invariance to uniformly scaling everyone’s welfare levels, but also a form of invariance when scaling only one person’s welfare by a positive factor. In essence, even if each individual’s “1 unit” of welfare could differ in meaning, as long as zero is a common baseline, the overall ranking of outcomes remains consistent under the Nash-type function.</p>
+<p>The Nash-type function (<span class="arithmatex">\(\epsilon = 1\)</span>) exhibits not only invariance to uniformly scaling everyone’s welfare levels, but also a form of invariance when scaling only one person’s welfare by a positive factor. In essence, even if each individual’s “1 unit” of welfare could differ in meaning, as long as zero is a common baseline, the overall ranking of outcomes remains consistent under the Nash-type function.</p>
 <ul>
 <li>This property is significant when we suspect that different individuals perceive or measure welfare in different subjective scales, but we still share a common notion of “the worst possible value is 0.”</li>
 </ul>
 <hr />
 <h2 id="optional-section-proof-of-individual-scale-invariance">Optional Section: Proof of Individual Scale Invariance</h2>
 <p><strong>Proposition</strong><br />
-For any $x, y, i,$ and $c$ $(c&gt;0)$, if<br />
-$W_{\text{Nash}}(x_1,x_2,\dots,x_n) \ge W_{\text{Nash}}(y_1,y_2,\dots,y_n)$,<br />
+For any <span class="arithmatex">\(x, y, i,\)</span> and <span class="arithmatex">\(c\)</span> <span class="arithmatex">\((c&gt;0)\)</span>, if<br />
+<span class="arithmatex">\(W_{\text{Nash}}(x_1,x_2,\dots,x_n) \ge W_{\text{Nash}}(y_1,y_2,\dots,y_n)\)</span>,<br />
 then<br />
-$W_{\text{Nash}}(x_1,x_2,\dots,c \cdot x_i,\dots,x_n) \ge W_{\text{Nash}}(y_1,y_2,\dots,c \cdot y_i,\dots,y_n)$.</p>
+<span class="arithmatex">\(W_{\text{Nash}}(x_1,x_2,\dots,c \cdot x_i,\dots,x_n) \ge W_{\text{Nash}}(y_1,y_2,\dots,c \cdot y_i,\dots,y_n)\)</span>.</p>
 <p><strong>Proof</strong>  </p>
 <ol>
-<li>The inequality $W_{\text{Nash}}(x_1,x_2,\dots,x_n) \ge W_{\text{Nash}}(y_1,y_2,\dots,y_n)$ means</li>
+<li>The inequality <span class="arithmatex">\(W_{\text{Nash}}(x_1,x_2,\dots,x_n) \ge W_{\text{Nash}}(y_1,y_2,\dots,y_n)\)</span> means</li>
 </ol>
 <p>$$
    \prod_{j=1}^n x_j \;\;\ge\;\; \prod_{j=1}^n y_j.
    $$</p>
 <ol>
-<li>Next, consider multiplying the $i$-th component by a positive constant $c$. Then</li>
+<li>Next, consider multiplying the <span class="arithmatex">\(i\)</span>-th component by a positive constant <span class="arithmatex">\(c\)</span>. Then</li>
 </ol>
 <p>$$
    W_{\text{Nash}}(x_1,x_2,\dots, c\cdot x_i,\dots,x_n)
@@ -1408,7 +1408,7 @@ $W_{\text{Nash}}(x_1,x_2,\dots,c \cdot x_i,\dots,x_n) \ge W_{\text{Nash}}(y_1,y_
    = c \cdot \prod_{j=1}^n y_j.
    $$</p>
 <ol>
-<li>Because $c&gt;0$, multiplying each side of an inequality by $c$ does not change its direction. Therefore,</li>
+<li>Because <span class="arithmatex">\(c&gt;0\)</span>, multiplying each side of an inequality by <span class="arithmatex">\(c\)</span> does not change its direction. Therefore,</li>
 </ol>
 <p>$$
    c \cdot \prod_{j=1}^n x_j 
@@ -1426,7 +1426,7 @@ $W_{\text{Nash}}(x_1,x_2,\dots,c \cdot x_i,\dots,x_n) \ge W_{\text{Nash}}(y_1,y_
 <h3 id="23-example-subjective-well-being-applications">2.3 Example: Subjective Well-Being Applications</h3>
 <ul>
 <li>In subjective well-being surveys, we might agree that 0 is the worst possible state, yet the meaning of a score of 50 may vary across individuals.  </li>
-<li>Even if these individual scales are not strictly comparable, the <strong>Nash-type social welfare function</strong> (i.e., $\sum \log x_i$ or the geometric mean) allows us to make consistent welfare comparisons, provided that “0” is shared as a baseline.</li>
+<li>Even if these individual scales are not strictly comparable, the <strong>Nash-type social welfare function</strong> (i.e., <span class="arithmatex">\(\sum \log x_i\)</span> or the geometric mean) allows us to make consistent welfare comparisons, provided that “0” is shared as a baseline.</li>
 </ul>
 <h3 id="24-applications-to-the-human-development-index-hdi-etc">2.4 Applications to the Human Development Index (HDI), etc.</h3>
 <p>When combining multiple indicators—such as life expectancy, education, and income—into a single index, it can be difficult to unify their scales precisely.<br />
@@ -1438,10 +1438,10 @@ $W_{\text{Nash}}(x_1,x_2,\dots,c \cdot x_i,\dots,x_n) \ge W_{\text{Nash}}(y_1,y_
 <li><strong>Atkinson-Type Social Welfare Function</strong>  </li>
 <li>Exhibits scale invariance, meaning that if all welfare levels are multiplied by the same factor, the ranking of policy options remains the same.  </li>
 <li>
-<p>By adjusting the inequality aversion parameter $\epsilon$, one can span from a utilitarian criterion ($\epsilon=0$) to a Rawlsian criterion ($\epsilon \to \infty$).</p>
+<p>By adjusting the inequality aversion parameter <span class="arithmatex">\(\epsilon\)</span>, one can span from a utilitarian criterion (<span class="arithmatex">\(\epsilon=0\)</span>) to a Rawlsian criterion (<span class="arithmatex">\(\epsilon \to \infty\)</span>).</p>
 </li>
 <li>
-<p><strong>Nash-Type Social Welfare Function</strong> ($\epsilon = 1$)  </p>
+<p><strong>Nash-Type Social Welfare Function</strong> (<span class="arithmatex">\(\epsilon = 1\)</span>)  </p>
 </li>
 <li>Uses the geometric mean of welfare levels (or equivalently, the sum of logarithms).  </li>
 <li>Ensures that even if only one individual’s welfare is rescaled by a positive factor, the ordinal evaluation of policies remains consistent—provided that zero is a shared baseline.  </li>
@@ -1508,6 +1508,8 @@ $W_{\text{Nash}}(x_1,x_2,\dots,c \cdot x_i,\dots,x_n) \ge W_{\text{Nash}}(y_1,y_
     
     
       <script src="../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>
