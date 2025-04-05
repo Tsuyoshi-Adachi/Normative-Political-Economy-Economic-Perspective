@@ -62,7 +62,7 @@ The Nash-type function ($\epsilon = 1$) exhibits not only invariance to uniforml
 
 ---
 
-## Optional Section: Proof of Individual Scale Invariance
+## ⭐️Advanced (Optional): Proof of Individual Scale Invariance
 
 **Proposition**  
 For any $x, y, i,$ and $c$ $(c>0)$, if  

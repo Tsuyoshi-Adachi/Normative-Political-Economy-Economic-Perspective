@@ -86,7 +86,7 @@ Having established that price does not always equal value, we turn to the questi
 
 ---
 
-## (Advanced Option) General Equilibrium Theory (For Intermediate Micro/Macro Students)
+## ⭐️Advanced (Optional): General Equilibrium Theory (For Intermediate Micro/Macro Students)
 
 Up to this point, we have emphasized the idea that “money itself does not inherently have value.” This viewpoint is taken even further in the **general equilibrium theory** that underpins intermediate and advanced economics courses. In such models, **money** as a physical object rarely appears. Instead, markets balance **exchange ratios between goods**, and each individual’s possible **bundles of goods** define what they can consume.
 

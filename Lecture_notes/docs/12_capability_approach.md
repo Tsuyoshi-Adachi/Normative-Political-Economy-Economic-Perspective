@@ -86,6 +86,13 @@ By considering not just economic growth or GDP but also aspects like health and 
 
 ![a074bd68-39b8-457c-8f29-7ef192ba8b1a](https://hackmd.io/_uploads/ry4QBJD2kg.gif)
 
+### Note on Debates Over a Single Index
+Below is a concise version you can insert as a final paragraph:
+
+---
+
+**Note on Debates Over a Single Index**  
+Within the Capability Approach, there is debate over whether multiple capabilities should be **combined into a single composite index**. While such an index can offer a clear policy benchmark, it may also **blur important differences** in how individuals realize their opportunities. Critics of a single metric argue that **separate indicators** can better capture these nuances.
 
 ---
 

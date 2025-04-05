@@ -68,7 +68,7 @@ but because having more cash lowers the marginal utility of money, the situation
 
 ---
 
-## Compensating Variation and the Income Effect (For Intermediate Microeconomics Students)
+## ⭐️Advanced (Optional): Compensating Variation and the Income Effect (For Intermediate Microeconomics Students)
 
 - **Using Indifference Curves**  
   From an indifference-curve perspective, the monetary value of “consuming one additional unit” of a particular good depends on where you start on the indifference map. If your overall income or consumption bundle changes, the marginal rate of substitution (and thus the willingness to pay) also changes.

@@ -54,7 +54,7 @@ Thus, strictly adhering to symmetry across infinitely many generations **conflic
 
 ---
 
-## 4. *Optional for Intermediate Macroeconomics Students:* No-Discount Social Welfare Function
+## **4. ⭐️Advanced (Optional). No-Discount Social Welfare Function**
 
 An alternative framework **without discounting** can be considered. One example is a social welfare function based on the *limit inferior* (“lim inf”) of the welfare sequence:
 
@@ -71,7 +71,12 @@ This approach, therefore, reflects an extreme form of intertemporal equity, wher
 
 ---
 
-## 5. Summary
+## 5. A Strong—Though Controversial—Rationale for Discounting
+One arguably consistent justification for discounting is the possibility that future generations might not exist at all. If there is a nonzero probability that society could collapse at each point in time, then the expected welfare of distant generations necessarily diminishes. From this perspective, discounting does not merely reflect a subjective preference for the present but an acknowledgment of existential risk.
+
+---
+
+## 6. Summary
 
 - **Infinite-Horizon Considerations**: Social welfare functions must handle infinite-dimensional utility vectors. Discounting is common but subject to normative scrutiny.  
 - **Symmetry vs. Pareto**: A fully symmetric treatment of all generations can conflict with the Pareto improvement principle, revealing a fundamental tension.  

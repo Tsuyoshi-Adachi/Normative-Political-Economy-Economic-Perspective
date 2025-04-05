@@ -33,3 +33,11 @@ nav:
       - "27 Population Ethics Social Welfare Functions": "27_population_ethics_social_welfare_functions.md"
 theme:
   name: material
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
