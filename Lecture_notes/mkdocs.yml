@@ -2,6 +2,7 @@
 site_name: Public Philosophy (Economics Perspective)
 site_url: https://tsuyoshi-adachi.github.io/Normative-Political-Economy-Economic-Perspective/
 nav:
+  - "Home": "index.md"
   - "Part I: Measure Welfare":
       - "01 Welfarism Equilibrium": "01_welfarism_equilibrium.md"
       - "02 Subjective Welfare Principle": "02-subjective-welfare-principle.md"
@@ -33,6 +34,8 @@ nav:
       - "27 Population Ethics Social Welfare Functions": "27_population_ethics_social_welfare_functions.md"
 theme:
   name: material
+  logo: assets/PP.png
+  favicon: assets/favicon.ico
 
 markdown_extensions:
   - pymdownx.arithmatex:

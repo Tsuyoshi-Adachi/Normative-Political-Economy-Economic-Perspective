@@ -1,87 +1,50 @@
 ---
-title: 01_welfarism_equilibrium
+title: 00_welfare_economics
 ---
 
-## [📹 Watch the introductory video here](https://wsdmoodle.waseda.jp/mod/millvi/view.php?id=5062259)
-# Welfarism and Equilibrium
+### What is “Public Philosophy”?
 
-Standard economic theory, when evaluating policies, typically assumes three core elements:
+- In fact, “public philosophy” does not exist as an independent academic field.
+- This course name refers to studying both the normative aspects of political science (i.e., political philosophy) and economics (i.e., welfare economics) in parallel as part of our faculty’s liberal arts curriculum.
 
-1. A **consequentialist** viewpoint  
-2. A **welfarist** criterion  
-3. An emphasis on the **equilibrium** outcome resulting from individuals’ optimal responses to the policy
+### What is Welfare Economics?
 
-In this session, we will briefly explore these three points.
+- Welfare economics is a branch of economics that analyzes what it means for a policy to be beneficial to society.
+- However, it is not philosophy per se. In welfare economics, once we define what “beneficial to society” means, we then examine what can be said scientifically based on that definition.
 
----
+### Thinking About What “Beneficial to Society” Means
 
-## 1. Consequentialism
+Consider the following questions:
 
-### Overview of Consequentialism
-- **Consequentialism** is an approach that judges institutions or policies based on their outcomes (consequences).  
-- In other words, rather than focusing solely on the immediate effects after a policy is introduced, we consider all subsequent, long-term impacts in assessing whether the policy is good or bad.  
-- Importantly, **being consequentialist does not mean entirely ignoring procedural aspects**. A policy with opaque processes might undermine public trust, ultimately leading to undesirable outcomes. In this sense, procedural factors can be incorporated as part of the consequences.
+- **Question 1**: There are two people, A and B. Please divide 1,000 yen between them in a fair way.
+- **Question 2**: This division is being conducted for the second time, and in the first trial, Person A received the entire 1,000 yen. Given that, how would you divide another 1,000 yen fairly?
 
-### Non-Consequentialism (Policy Examples)
-- By contrast, **non-consequentialism** (or **deontological** approaches) places independent value on the inherent nature or procedure of an action or institution, rather than evaluating it purely by its outcomes.
-- Examples in the policy context:
-  - **Prioritizing procedural legitimacy**  
-    - Even if a public project promises large benefits, some may argue it cannot be justified if it bypassed a public referendum or transparent procedures. Here, the process itself is considered an independent standard of correctness.  
-  - **Absolute respect for rights**  
-    - A policy that invades personal privacy or infringes on basic rights could be deemed unacceptable, no matter how beneficial it might be to the broader society.
+From these questions, two important observations emerge:
 
----
+1. We often assume that judging what is good or bad in society is a matter of personal opinion. Yet, people’s judgments can sometimes coincide in surprisingly consistent ways.
+2. On the other hand, small differences in information or circumstances can drastically change those judgments.
 
-## 2. Welfarism
+### Social Desirability Is Not Merely Emotional
 
-### Overview of Welfarism
-- **Welfarism** refers to the type of consequentialism that evaluates outcomes based on **social welfare**, often understood in terms of individual utilities or well-being.
-- In economics, it is common to define welfare in terms of individual utility, satisfaction, or preference fulfillment, which are then aggregated or compared to assess the desirability of a policy.
+Does having more information automatically lead to better judgments? Let’s consider an example. Suppose someone argues, “Because older people are adults as well, there is no need to offer them special consideration in public transportation.” However, this person was actually annoyed that morning after witnessing an elderly person violating certain rules. Knowing this, you might suspect that the argument stems from a momentary emotional reaction rather than a reasoned view of what is beneficial for society.
 
-### Consequentialist but Non-Welfarist Approaches
-- Not all consequentialist approaches use **welfare** (i.e., individual utility) as the standard. We can label these as **consequentialist but non-welfarist**.
-  - Example: A policy that aims **primarily** to reduce CO₂ emissions might focus on environmental metrics rather than overall social utility. This still looks at the outcome (reduced emissions) as the guiding measure—hence it is consequentialist—but it is not welfarist if it does not prioritize human well-being or satisfaction as the yardstick.
+This suggests that simply increasing information is not the fundamental issue. Rather, the critical point here is that we regard “assessments of social desirability” not as emotional reactions, but as matters for rational consideration.
 
-### Economics’ Standard Approach: Consequentialism × Welfarism
-- In mainstream economics, the standard approach is **consequentialist welfarism**:  
-  - Evaluate a policy by examining how much it improves (or harms) people’s utility or welfare, including how those utilities are distributed.  
-  - Decide whether a policy is good or bad based on whether it leads to higher social welfare in the outcome.
+In other words, determining what constitutes a “socially desirable condition (justice)” is not a psychological question about which stimuli trigger a sense of justice, nor is it an entirely emotional or purely objective concept. It is a philosophical question that calls for rational thought.
 
----
+### Why Study Welfare Economics or Political Philosophy?
 
-## 3. Equilibrium as the Outcome
+Unfortunately, studying welfare economics or political philosophy does not reveal the “true nature” of social desirability. In reality, many scholars present various interpretations, and the debate remains ongoing.
 
-### What Is Equilibrium?
-- In economics, the “consequences” we evaluate are typically not just the direct, immediate effects of a policy, but the **final situation (equilibrium)** that arises when individuals respond optimally to the new policy environment.
-- Individuals (households, firms, etc.) will adjust their behavior in ways that maximize their own utility or profit. The **combined** effect of these changes is the actual outcome—what we call an **equilibrium**.
+So, what is there to learn? Is it pointless to explore debates that do not produce definitive conclusions?
 
-### An Everyday Example
-- **Considering only direct effects**: Suppose a company raises employees’ transportation allowances, expecting “reduced commuting costs and happier employees.”  
-- **The equilibrium in practice**: Employees may respond by moving to cheaper homes farther away, increasing the firm’s total reimbursement costs. In turn, the firm might reduce other benefits or salaries to offset higher commuting expenses. Ultimately, everyone’s well-being might differ from the initial expectation, and that final balance of gains and losses is what we must evaluate.
+In fact, the role of political philosophy and welfare economics is to organize and make comparable the diverse standards of “social desirability” that people hold. For example, some views prioritize equality, while others prioritize freedom. If we abandon discussion by saying, “It differs for each person, so there’s no point in debating,” we neglect opportunities for dialogue or consensus-building, and risk a situation where only certain individuals’ opinions are reflected in policy. This poses a danger because fair decision-making requires incorporating a broad range of opinions and values.
 
-### The Evaluation Flow in Economics
-1. Identify the **direct effect** of a policy.  
-2. Consider how **agents respond optimally** to the new policy.  
-3. Evaluate the **equilibrium** level and distribution of welfare under the new conditions.
+As part of a liberal arts education, this course aims to help you learn how to communicate with people whose values or judgments differ from your own, through the lens of political philosophy and welfare economics. Concretely, you will learn to understand the differences between your own standards and those of others, and to effectively convey your perspective. The goal is not to force your position on others, but rather for everyone to accurately recognize the differing standards each person brings to the discussion.
 
-This procedure is central to economic policy analysis.
+That is why this course includes group discussions and special lectures by instructors from diverse fields.
+
 
 ---
 
-## Summary
-
-1. **Consequentialism**  
-   - Policies and institutions are judged by their outcomes. Procedural elements can still matter insofar as they influence or shape those outcomes.  
-
-2. **Welfarism**  
-   - A branch of consequentialism that uses **social welfare** (usually based on individual utilities) as the metric.  
-   - Standard economics adopts this perspective to gauge policy success via changes in individuals’ utility or well-being.
-
-3. **Equilibrium as the Evaluation Target**  
-   - Because people’s actions adjust in response to any new policy, economists focus on the final situation—**equilibrium**—and assess the welfare levels there.
-
-These premises—consequentialism, welfarism, and equilibrium analysis—underlie standard economic methods of policy evaluation. Future lectures will build on this framework to explore more detailed analytical tools and applications in policy-making.
-
----
-
-### [📝 Take the mini-quiz here](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062537)
+### [Please go back to Moodle video](https://wsdmoodle.waseda.jp/mod/quiz/view.php?id=5062537)
