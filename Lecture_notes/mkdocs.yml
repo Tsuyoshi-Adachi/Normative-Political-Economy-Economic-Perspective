@@ -1,4 +1,3 @@
----
 site_name: Public Philosophy (Economics Perspective)
 site_url: https://tsuyoshi-adachi.github.io/Normative-Political-Economy-Economic-Perspective/
 nav:
@@ -32,6 +31,25 @@ nav:
       - "25 Welfare Evaluation Uncertainty": "25_welfare_evaluation_uncertainty.md"
       - "26 Intergenerational Equity Social Welfare Functions": "26_intergenerational_equity_social_welfare_functions.md"
       - "27 Population Ethics Social Welfare Functions": "27_population_ethics_social_welfare_functions.md"
+  - "Parts III & IV: Designing Voting and Fair Allocations":
+      - "28 Thinking Voting Methods": "28_Thinking_Voting_Methods.md"
+      - "29 Borda Count": "29_Borda_Count.md"
+      - "30 Approval Voting": "30_Approval_Voting.md"
+      - "31 Fascinating Rules": "31_Fascinating_Rules.md"
+      - "32 Rationality Preference": "32_Rationality_Preference.md"
+      - "33 Social Choice Rules": "33_Social_Choice_Rules.md"
+      - "34 Strategy Proofness": "34_Strategy_Proofness.md"
+      - "35 Spoiler VoteSplitting Problem": "35_Spoiler_VoteSplitting_Problem.md"
+      - "36 Pairwise Majority Condorcet": "36_Pairwise_Majority_Condorcet.md"
+      - "37 Median Voter Rule": "37_Median_Voter_Rule.md"
+      - "38 Condorcet Jury Theorem": "38_Condorcet_Jury_Theorem.md"
+      - "39 Judgment Paradox": "39_Judgment_Paradox.md"
+      - "40 Envy Freeness": "40_Envy_Freeness.md"
+      - "41 Core Stability": "41_Core_Stability.md"
+      - "42 Market Fairness": "42_Market_Fairness.md"
+      - "43 Market Design": "43_Market_Design.md"
+      - "44 Carbon Pie": "44_Carbon_Pie.md"
+      - "45 Equal Opportunity": "45_Equal_Opportunity.md"
 theme:
   name: material
   logo: assets/PP.png
@@ -43,4 +61,3 @@ markdown_extensions:
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-
